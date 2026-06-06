@@ -62,7 +62,6 @@ https://dribbble.com/shots/27241033-Next-Crypto-App-Design
 lib/
 ├── main.dart            # point d'entrée de l'app
 ├── constants.dart       # couleurs + styles
-├── wave_painter.dart    # dessin de la vague et du graphique
 ├── widgets.dart         # composants réutilisables
 ├── home_screen.dart     # écran d'accueil
 └── detail_screen.dart   # écran d'investissement
