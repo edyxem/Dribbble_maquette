@@ -22,8 +22,10 @@ https://dribbble.com/shots/27241033-Next-Crypto-App-Design
 
 ### Aperçu de la maquette
 
-<img src="assets/images/image.png" width="300" alt="Maquette originale 1" />
-<img src="assets/images/image2.png" width="300" alt="Maquette originale 2" />
+<div align="center">
+  <img src="assets/images/image.png" width="300" alt="Maquette originale 1" />
+  <img src="assets/images/image2.png" width="300" alt="Maquette originale 2" />
+</div>
 
 ---
 
@@ -31,11 +33,15 @@ https://dribbble.com/shots/27241033-Next-Crypto-App-Design
 
 ### Écran 1
 
-<img src="assets/screen1.png" width="300" alt="Écran 1" />
+<div align="center">
+  <img src="assets/screen1.png" width="300" alt="Écran 1" />
+</div>
 
 ### Écran 2
 
-<img src="assets/screen2.png" width="300" alt="Écran 2" />
+<div align="center">
+  <img src="assets/screen2.png" width="300" alt="Écran 2" />
+</div>
 
 ---
 
