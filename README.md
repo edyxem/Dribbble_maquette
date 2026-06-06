@@ -17,21 +17,13 @@ J'ai choisi une interface de suivi de cryptomonnaies qui s'appelle **Next Crypto
 
 ## Maquette originale
 
-**Lien Dribbble :**
-
-```text
+**Lien Dribbble :**  
 https://dribbble.com/shots/27241033-Next-Crypto-App-Design
-```
 
 ### Aperçu de la maquette
 
-```text
-assets\images\image.png
-```
-
-```text
-assets\images\image2.png
-```
+<img src="assets/images/image.png" width="300" alt="Maquette originale 1" />
+<img src="assets/images/image2.png" width="300" alt="Maquette originale 2" />
 
 ---
 
@@ -39,15 +31,11 @@ assets\images\image2.png
 
 ### Écran 1
 
-```text
-assets\screen1.png
-```
+<img src="assets/screen1.png" width="300" alt="Écran 1" />
 
 ### Écran 2
 
-```text
-assets\screen2.png
-```
+<img src="assets/screen2.png" width="300" alt="Écran 2" />
 
 ---
 
@@ -90,7 +78,7 @@ Voilà les trucs qui m'ont pris le plus de temps :
 
 - **Le responsive** : adapter tous les éléments à différentes tailles d'écran c'était pas évident au début.
 - **L'organisation du code** : séparer les widgets correctement pour que ce soit lisible et réutilisable, ça demande un peu de réflexion.
-- **La vague** : reproduire l'illustration en forme de vague sur la maquette était compliqué. Après plusieurs essais avec `CustomPainter`, j'ai finalement opté pour une image générée que j'ai utilisée en fond. Mais meme avec l'image j'ai eu certains problemes a cause du dossier assets
+- **La vague** : reproduire l'illustration en forme de vague sur la maquette était compliqué. Après plusieurs essais avec `CustomPainter`, j'ai finalement opté pour une image générée que j'ai utilisée en fond. Mais même avec l'image j'ai eu certains problèmes à cause du dossier assets.
 
 ---
 
@@ -108,13 +96,13 @@ J'ai testé l'application sur l'émulateur Chrome avec différentes dimensions. 
 git clone <url-du-depot>
 ```
 
-2.Installer les dépendances :
+2. Installer les dépendances :
 
 ```bash
 flutter pub get
 ```
 
-3.Lancer :
+3. Lancer :
 
 ```bash
 flutter run
